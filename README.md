@@ -1,4 +1,4 @@
 # Nock
 
-A work-in-progress implementation of
-[Nock](https://urbit.org/docs/glossary/nock) in Rust.
+Further work on a Nock interpreter written in Rust can be found at
+[Urbit](https://github.com/mcevoypeter/urbit/tree/main/nock).
